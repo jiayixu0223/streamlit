@@ -30,3 +30,5 @@ st.write('This is what you searched!')
 st.dataframe(df1_result_search)
 url = "https://empowerusc.netlify.app/job_listing.html"
 st.write("Link back [link](%s)" % url)
+url2 = 'https://empowerusc.netlify.app/application.html'
+st.write("Link to apply [link](%s)" % url2)
